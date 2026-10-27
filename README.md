@@ -136,3 +136,15 @@ Key lessons included:
 - Data Quality Assessment
 - Residual Analysis
 - Model Validation
+- Industrial Analytics
+- Problem Solving
+
+---
+
+## Final Reflection
+
+Although the final model was not suitable for deployment due to limitations in the underlying data, the project provided valuable insights into industrial statistical modeling and reinforced a fundamental principle of analytics:
+
+**Better algorithms cannot compensate for poor data quality.**
+
+Understanding the process, validating assumptions, and questioning the data proved to be just as important as building the model itself.
