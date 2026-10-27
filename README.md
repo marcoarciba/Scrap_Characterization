@@ -148,3 +148,13 @@ Although the final model was not suitable for deployment due to limitations in t
 **Better algorithms cannot compensate for poor data quality.**
 
 Understanding the process, validating assumptions, and questioning the data proved to be just as important as building the model itself.
+
+## Future Improvements
+
+Potential next steps for this project include:
+
+- Improved sampling strategies
+- Enhanced data quality controls
+- Additional process variables
+- Non-linear modeling approaches
+- Ensemble methods for comparison
